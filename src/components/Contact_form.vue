@@ -56,7 +56,6 @@
 </template>
 
 <script setup>
-/* Validateur de formulaire avec Vue.js 3 */
 
 import { ref } from 'vue';
 
