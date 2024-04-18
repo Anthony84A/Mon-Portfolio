@@ -120,7 +120,6 @@ function toggleModalCdc() {
 
 function toggleModalCommentaire() {
     document.querySelector('#modal_commentaire').classList.toggle('active')
-    console.log('coucou')
 }
 </script>
 
